@@ -16,8 +16,8 @@ Report is available at https://github.com/lyuheng/546project/blob/main/demo/546r
 * PixelCNN++ <br />
 <img src="https://github.com/lyuheng/546project/blob/main/demo/pixelcnn_half_gen.png" width="380" height="300" />
 
-* 1D Transformer <br />
+* 1D-local Transformer <br />
 <img src="https://github.com/lyuheng/546project/blob/main/demo/trans_half_gen.png" width="380" height="300" />
 
-* 2D Transformer <br />
+* 2D-local Transformer <br />
 <img src="https://github.com/lyuheng/546project/blob/main/demo/trans_2d_half_gen.png" width="380" height="300" />
